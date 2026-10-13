@@ -3,7 +3,7 @@
 
 ThinkBoard is a notes app built with MongoDB, Express, React, and Node.js (the MERN stack). MongoDB stores notes, the Express API handles note operations, and React is set up to display the application. The backend uses Upstash Redis to limit requests.
 
-> **Current state:** The backend CRUD API and frontend route declarations are present. The page and UI component source files are empty in this checkout, so the browser interface is not currently implemented. Screenshots below show the intended UI.
+> **Current state:** The backend CRUD API and frontend route declarations are present. The page and UI component source files are now present in this checkout, so the browser interface has been implemented. Screenshots below show the intended UI.
 
 ## Contents
 
